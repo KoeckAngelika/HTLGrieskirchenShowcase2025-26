@@ -1,0 +1,65 @@
+[
+  {
+    "title": "empty",
+    "folder": "empty",
+    "author": "empty",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Plants vs. Zombies",
+    "folder": "Plants vs. Zombies",
+    "author": "Tobias Hofinger",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Let me ruin your fun",
+    "folder": "Let me ruin your fun",
+    "author": "Sebastian Schild",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "HookRush",
+    "folder": "HookRush",
+    "author": "Jonas Sternbauer",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "HyperKine",
+    "folder": "HyperKine",
+    "author": "Clemens Auinger",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "EndlessRunner",
+    "folder": "EndlessRunner",
+    "author": "Stefan Wenzlhumer",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+      "title": "Zombieshooter",
+    "folder": "zombieshooter",
+    "author": "Florian oberhumer",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+      "title": "Arkenfall",
+    "folder": "Arkenfall",
+    "author": "Stefan Adlesgruber",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "MythQuest",
+    "folder": "MythiQuest",
+    "author": "Thorsten Kollnberger",
+    "year": "2025_WS",
+    "status": 1
+  },
+]
